@@ -1,0 +1,7 @@
+git clone ‘link’: irá clonar o repositório do GitHub para a máquina
+cd ‘nome da pasta’: entra na pasta direcionada
+git status: verifica se reconhece conteúdo novo na pasta
+git add .
+(dar outro ‘git status’ para conferir se deu certo)
+git commit -m “’mensagem’”
+git push origin main: esses dois últimos comandos seguidos irão mandar para o GitHub
